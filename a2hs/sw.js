@@ -9,7 +9,7 @@ self.addEventListener('install', function(e) {
        '/pwa-examples/a2hs/images/fox1.jpg',
        '/pwa-examples/a2hs/images/fox2.jpg',
        '/pwa-examples/a2hs/images/fox3.jpg',
-       '/pwa-examples/a2hs/images/fox4.jpg'
+       '/pwa-examples/a2hs/images/fox.jpg'
      ]);
    })
  );
